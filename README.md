@@ -15,7 +15,7 @@ Analyzed 5+ years (2017–2022) of historical Ethereum (ETH) data using SQL, Pow
 
 ## 🖼️ Dashboard Preview
 
-![Ethereum Dashboard Preview](dashboard_preview.png)
+![Ethereum Dashboard Preview](./Screenshot%202026-08-17%20235250.png)
 
 ### Key Dashboard Components:
 * **KPI Cards:** Displays All-Time High/Low ($4,812 / $84) and Peak Day High/Low metrics ($4,892 / $83).
